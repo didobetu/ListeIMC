@@ -1,4 +1,4 @@
-# PROJET IMC – Développement Web avec JEE (ESTM)
+# PROJET IMC – Développement Web avec JEE
 
 Application web **Jakarta EE 10** (Servlets, JSP, EL, JSTL) : liste de patients et calcul de l'IMC.
 Les données sont en mémoire (réinitialisées au redémarrage de Tomcat).
